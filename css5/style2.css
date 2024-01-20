@@ -1,0 +1,55 @@
+#navbar{
+    height: 60px;
+    background-color: black;
+    border-color: white;
+}
+
+#logo{
+    color: orange;
+    font-size: 25px;
+
+}
+
+a{
+    color: white;
+    padding-right: 100px;
+}
+
+button{
+    background-color: orange;
+}
+
+#content{
+    height:700px;
+}
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+/* div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#box1{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+#box2{
+    background-color: rgba(255, 0, 0, 0.75);
+}
+#box3{
+    background-color: rgba(255, 0, 0, 1);
+} */

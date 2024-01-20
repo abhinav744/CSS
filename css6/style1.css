@@ -1,0 +1,41 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box1{
+    color: white;
+    background-image: url("/css6/tiger_pic.jpg");
+    background-size: cover;
+    /* background-size: auto;
+    background-size: auto; */
+}
+/* 
+#box1{
+    position: static;
+    
+}
+
+#box2{
+    position: relative;
+    top: 20px;
+    left: 10px;
+    position: sticky;
+    
+}
+
+#box3{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    z-index: -10;
+}
+
+#box4{
+    position: fixed;
+    top: 0px;
+    
+} */
